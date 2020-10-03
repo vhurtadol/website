@@ -13,7 +13,7 @@ The main challenge for populist mobilizations is to trespass the geographical co
 
 My dissertation seeks to explain the emergence of populist mobilization at the local from a bottom-up perspective, and to identify the factors that motivate or limit the capacity of populist mobilizations to reach national-level politics. 
 
-### Social policy response to the COVID-19 pandemic (with [Paolo Sosa](https://paolososavillagarcia.com)]
+### Social policy response to the COVID-19 pandemic (with [Paolo Sosa](https://paolososavillagarcia.com))
 
 The COVID-19 pandemic has challenged Latin American governments to provide not only a healthcare response, but also innovative economic and social policy to reduce the costs of social distancing and mandatory lockdown. These policies range from credit bailouts for businesses and wage subsidies to universal direct cash transfers. However, states with uneven territorial presence have struggled to effectively implement social policy throughout their territory, reducing their ability to control the pandemic. 
 
