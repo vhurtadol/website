@@ -11,5 +11,5 @@ My analysis is focused on the supporters, not the leader of the populist mobiliz
 
 The main challenge for populist mobilizations is to trespass the geographical confines of local grievances. Usually one or two core issues drive local populist mobilizations and the populist rhetoric allows for articulation among members of the same local space (district or region). However, populist rhetoric is not enough to mobilize neighboring communities and produce national level mobilization. Instead, structural factors at play can limit mobilizations and maintain them fragmented, or they can promote the emergence of a national populist mobilization.
 
-My dissertation aims to explain the emergence of populist mobilization at the local from a bottom-up perspective, and to identify the factors that motivate or limit the capacity of populist mobilizations to reach national-level politics. 
+My dissertation seeks to explain the emergence of populist mobilization at the local from a bottom-up perspective, and to identify the factors that motivate or limit the capacity of populist mobilizations to reach national-level politics. 
 
