@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### About me
+
 Hello! I am a Political Science Ph.D. Candidate at the University of British Columbia, Vancouver, Canada. My pronouns are she/her. My research focuses on political economy of development and political behavior, with a regional specialization in Latin America. For my dissertation, I study the formation and scope of populist mobilizations in two Andean countries: Peru and Bolivia. Using network analysis and GSI techniques, I analyse how populism can emerge from bottom-up processes in the developing world. You can see my [CV here](https://www.dropbox.com/s/luesiwcci3il3zo/CV%20-%20HURTADO%20Veronica.pdf?dl=0).
 
 ### Contact me
