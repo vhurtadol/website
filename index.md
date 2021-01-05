@@ -9,7 +9,7 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ list.url }}">{{ list.title }}</a></h1>
 
       <div class="entry">
-        {{ list.excerpt }}
+
       </div>
 
     </article>
