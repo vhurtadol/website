@@ -9,7 +9,7 @@ I am a Political Science Ph.D. Candidate at the University of British Columbia, 
 
 ### Contact me
 
-[vhurtado@alumni.ubc.ca](mailto:vhurtado@alumni.ubc.ca)
+[vhurtado@student.ubc.ca](mailto:vhurtado@student.ubc.ca)
 
 ### ¡Hola!
 
@@ -17,4 +17,4 @@ Actualmente soy candidata doctoral en el departamento de Ciencia Política en la
 
 ### Contacto
 
-[vhurtado@alumni.ubc.ca](mailto:vhurtado@alumni.ubc.ca)
+[vhurtado@student.ubc.ca](mailto:vhurtado@student.ubc.ca)
